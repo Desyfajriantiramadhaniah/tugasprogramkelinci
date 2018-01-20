@@ -32,5 +32,12 @@ cout<<"\n\t\t\tNAMA : Desy Fajrianti Ramadhaniah\n";
 	a.jenis("Anggora ");
 	cout << "\tMakanannya "<<a.makananKelinci<<endl;
 	cout << "\n";
+	
+		cout <<"2. " << b.jenisKelinci;
+	cout<< "Warnanya " << b.warnaBulu;
+	b.jenis("Persia ");
+	cout << "\tMakanannya "<<b.makananKelinci<<endl;
+	cout << "\n";
+	
 }
 
