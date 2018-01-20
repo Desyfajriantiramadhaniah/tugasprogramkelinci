@@ -22,5 +22,15 @@ int main(){
 	a.makananKelinci = "Wortel";
 	b.makananKelinci = "Kangkung";
 	c.makananKelinci = "Wortel dan kangkung";
+cout<<"\n\t\t\tNAMA : Desy Fajrianti Ramadhaniah\n";
+	cout<<"\t\t\tNPM  : 16630306\n";
+	cout<<"\t\t\tProgram Kelinci\n";
+	cout<<"------------------------------------------------------------------------------ \n";
+	
+	cout <<"1. " << a.jenisKelinci;
+	cout<< "Warnanya " << a.warnaBulu;
+	a.jenis("Anggora ");
+	cout << "\tMakanannya "<<a.makananKelinci<<endl;
+	cout << "\n";
 }
 
