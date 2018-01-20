@@ -12,5 +12,12 @@ class Kelinci{
 };
 
 int main(){
+		Kelinci a,b,c;
+	
+	
+	a.warnaBulu = "Putih ";
+	b.warnaBulu = "Coklat ";
+	c.warnaBulu = "Hitam ";
+	
 }
 
