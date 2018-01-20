@@ -19,5 +19,8 @@ int main(){
 	b.warnaBulu = "Coklat ";
 	c.warnaBulu = "Hitam ";
 	
+	a.makananKelinci = "Wortel";
+	b.makananKelinci = "Kangkung";
+	c.makananKelinci = "Wortel dan kangkung";
 }
 
