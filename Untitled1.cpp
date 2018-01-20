@@ -45,4 +45,6 @@ cout<<"\n\t\t\tNAMA : Desy Fajrianti Ramadhaniah\n";
 	cout << "\tMakanannya "<<c.makananKelinci<<endl;
 	cout << "\n";
 }
-
+void Kelinci::jenis(string jenis){
+	cout << "Jenisnya "<<jenis<< " !!"<<endl;
+}
